@@ -26,6 +26,8 @@ public class TugasAldyAksi {
          + " Lantai Bangunan: 3 Lantai,Warna Atap :Coklat";
     Aldy.Behavior="Buat menuntut ilmu";
     
+    Aldy.cetakInfo();
+
 }
 
 }
