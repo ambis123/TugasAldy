@@ -10,5 +10,9 @@ package tugasaldy;
  * @author Muhammad Rizaldy
  */
 public class TugasAldyAksi {
+    public static void main(String[] args) {
+        TugasAldy1 Abdi = new TugasAldy1();
     
+}
+
 }
